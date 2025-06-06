@@ -1,2 +1,1 @@
-# 2026-nov
-Calendar for November, 2026.
+# 2026-nov.bauska.org
